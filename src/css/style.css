@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Public+Sans:wght@300;400;700;800&display=swap');
+
+.container {
+    width: 1440px;
+    height: 689px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container img {
+    margin: 10px;
+}
+
+.elemento-pai {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+    bottom: 68px;
+    left: 26px;
+    color: white;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.absolute h2 {
+    font-weight: 300;
+}

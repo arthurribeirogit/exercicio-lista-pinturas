@@ -1,0 +1,14 @@
+@media(max-width:376px){
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        width: 375px;
+    }
+
+    .container img {
+        margin: 0;
+        height: 100%;
+        display: flex;
+        width: auto;
+    }
+}
